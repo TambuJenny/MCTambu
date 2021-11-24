@@ -2,20 +2,22 @@
 
 # Presentation
 
+I'm a full stack developer...
 
-My name is Tambu Masengui Jenny, programmer for over 2 years focused on Front-end and computer science student. But I also master back-end languages like C# and Python. I always had a great vision about programming and I want to take it to a more advanced level in my country, making life easier for my fellow countrymen and showing the benefits of technology in our day, day.
 
-
-## Languages and Technology
+## 🛠 Skills
 
  - HTML
  - CSS
+ - SCSS
  - JAVASCRIPT
- - C# and Python
- - - -- - - - - - - - - - - - 
+ - TYPESCRIPT
+ - C# 
+ - ASP.NET
+
  - React Js
- - Bootstrap
- - Materialise
+ - SQL, MYSQL
+ - PHYTON
 
 😎😎⁜※ΔΒΓΠ
 
