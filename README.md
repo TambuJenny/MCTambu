@@ -4,7 +4,6 @@
 
 I'm a full stack developer...
 
-
 ## 🛠 Skills
 
  <ul>
@@ -13,21 +12,22 @@ I'm a full stack developer...
   <li>Typescript</li>
   <li>C#</li>
   <li>ASP.NET</li> 
-  <li>SQL</li>
-  <li>MYSQL</li>
+  <li>SQL / MYSQL</li>
+  <li>Restful API / GraphQL</li>
 </ul>
 
 <h3>DESIGN</h3>
  <ul>
- <li><h5>PHOTOSHOP</h5></li>
-  <li><h5>FIGMA</h5></li>
-  <li><h5>FIGMA</h5></li>
-  
+ <li><label>PHOTOSHOP</label></li>
+ <li><label>FIGMA</label></li> 
 </ul>
  
+<i>Social Network</i> <br>
+<a href ="tambujenny@gmail.com" styles ="color: red"> Gmail</a>
+<a href ="https://www.linkedin.com/in/tambu-jenny-a37637213/" styles ="color: red"> Linkedin</a>
+<a href ="behance.net/mctambu" styles ="color: red"> Behance</a>
 
 😎😎⁜※ΔΒΓΠ
-<iframe src="https://open.spotify.com/embed/playlist/3j2rrOTXAo1kg6FGnWHHiO?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 
 <!--
