@@ -1,6 +1,6 @@
 😎HEY !
 
-# Presentation
+# ✨📊 <i>PRESENTATION</i>
 
 I'm a full stack developer...
 
@@ -19,13 +19,10 @@ I'm a full stack developer...
 
 <h3>DESIGN</h3>
  <ul>
- <li>React js</li>
-  <li>React Native </li>
-  <li>Typescript</li>
-  <li>C#</li>
-  <li>ASP.NET</li> 
-  <li>SQL</li>
-  <li>MYSQL</li>
+ <li><h5>PHOTOSHOP</h5></li>
+  <li><h5>FIGMA</h5></li>
+  <li><h5>FIGMA</h5></li>
+  
 </ul>
  
 
