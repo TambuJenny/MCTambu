@@ -7,20 +7,30 @@ I'm a full stack developer...
 
 ## 🛠 Skills
 
- <li><h5>React js</h5></li>
- - CSS
- - SCSS
- - JAVASCRIPT
- - TYPESCRIPT
- - C# 
- - ASP.NET
+ <ul>
+ <li>React js</li>
+  <li>React Native </li>
+  <li>Typescript</li>
+  <li>C#</li>
+  <li>ASP.NET</li> 
+  <li>SQL</li>
+  <li>MYSQL</li>
+</ul>
 
- - React Js
- - SQL, MYSQL
- - PHYTON
+<h3>DESIGN</h3>
+ <ul>
+ <li>React js</li>
+  <li>React Native </li>
+  <li>Typescript</li>
+  <li>C#</li>
+  <li>ASP.NET</li> 
+  <li>SQL</li>
+  <li>MYSQL</li>
+</ul>
+ 
 
 😎😎⁜※ΔΒΓΠ
-
+<iframe src="https://open.spotify.com/embed/playlist/3j2rrOTXAo1kg6FGnWHHiO?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 
 <!--
