@@ -7,7 +7,7 @@ I'm a full stack developer...
 
 ## 🛠 Skills
 
- - HTML
+ <li><h5>React js</h5></li>
  - CSS
  - SCSS
  - JAVASCRIPT
